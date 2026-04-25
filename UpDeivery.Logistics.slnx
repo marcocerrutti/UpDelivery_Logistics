@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="UpDelivery.Logistics.API/UpDelivery.Logistics.API.csproj" />
+  <Project Path="UpDelivery.Logistics.Application/UpDelivery.Logistics.Application.csproj" />
+  <Project Path="UpDelivery.Logistics.Core/UpDelivery.Logistics.Core.csproj" />
+  <Project Path="UpDelivery.Logistics.Infrastructure/UpDelivery.Logistics.Infrastructure.csproj" />
+  <Project Path="UpDelivery.Logistics.IntegrationTests/UpDelivery.Logistics.IntegrationTests.csproj" />
+  <Project Path="UpDelivery.Logistics.UnitTests/UpDelivery.Logistics.UnitTests.csproj" />
+</Solution>
